@@ -1,2 +1,1 @@
-# Snake-Game
-Snake game
+Classic Snake Game built with HTML, CSS, and JavaScript. Control the snake using arrow keys, eat food to grow, and avoid hitting walls or yourself. A fun project showcasing basic game logic, DOM manipulation, and responsive design using web technologies.
